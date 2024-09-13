@@ -16,4 +16,5 @@ require (
 	github.com/vbauerster/mpb v3.4.0+incompatible
 	github.com/vrischmann/envconfig v1.3.0
 	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f // indirect
+	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
 )
